@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myvocal/static/css/main.6df84cdd.chunk.css",
+    "main.js": "/myvocal/static/js/main.ade9abca.chunk.js",
+    "main.js.map": "/myvocal/static/js/main.ade9abca.chunk.js.map",
+    "runtime-main.js": "/myvocal/static/js/runtime-main.718c1932.js",
+    "runtime-main.js.map": "/myvocal/static/js/runtime-main.718c1932.js.map",
+    "static/css/2.4ee7bd90.chunk.css": "/myvocal/static/css/2.4ee7bd90.chunk.css",
+    "static/js/2.69fc07e5.chunk.js": "/myvocal/static/js/2.69fc07e5.chunk.js",
+    "static/js/2.69fc07e5.chunk.js.map": "/myvocal/static/js/2.69fc07e5.chunk.js.map",
+    "static/js/3.9405e84a.chunk.js": "/myvocal/static/js/3.9405e84a.chunk.js",
+    "static/js/3.9405e84a.chunk.js.map": "/myvocal/static/js/3.9405e84a.chunk.js.map",
+    "index.html": "/myvocal/index.html",
+    "static/css/2.4ee7bd90.chunk.css.map": "/myvocal/static/css/2.4ee7bd90.chunk.css.map",
+    "static/css/main.6df84cdd.chunk.css.map": "/myvocal/static/css/main.6df84cdd.chunk.css.map",
+    "static/js/2.69fc07e5.chunk.js.LICENSE.txt": "/myvocal/static/js/2.69fc07e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.718c1932.js",
+    "static/css/2.4ee7bd90.chunk.css",
+    "static/js/2.69fc07e5.chunk.js",
+    "static/css/main.6df84cdd.chunk.css",
+    "static/js/main.ade9abca.chunk.js"
+  ]
+}
